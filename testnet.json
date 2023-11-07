@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "pair_name": "HIPPO-WETH",
+      "pair_address": "0x2d0a9d0d3a16217dcd68f1622e8a436fe5657c66",
+      "token_x_address": "0xba61964dA4B1eB3606737a0031bFe70665CeAE3d",
+      "token_y_address": "0x575Ad5f3b05D76Bf8B19E9813A4D88aB1E8cF903"
+    },
+    {
+      "pair_name": "HIPPO-USDT",
+      "pair_address": "0x26efc9dbc3da05af8083f618e1e0fe263cc04fee",
+      "token_x_address": "0xba61964dA4B1eB3606737a0031bFe70665CeAE3d",
+      "token_y_address": "0xB12E6A6c122CA68DD1402791311778842101928E"
+    },
+    {
+      "pair_name": "HIPPO-USDC",
+      "pair_address": "0x9b5a75b893a41c18b4b57706335198b0b7e93305",
+      "token_x_address": "0xba61964dA4B1eB3606737a0031bFe70665CeAE3d",
+      "token_y_address": "0xB43EbF084442889a7FaEB2c93a53eA6493d83454"
+    },
+    {
+      "pair_name": "USDT-WETH",
+      "pair_address": "0x6d7609cdc78c52aee5993e40f72d394ac966e56b",
+      "token_x_address": "0xB12E6A6c122CA68DD1402791311778842101928E",
+      "token_y_address": "0x575Ad5f3b05D76Bf8B19E9813A4D88aB1E8cF903"
+    },
+    {
+      "pair_name": "USDC-WETH",
+      "pair_address": "0x955f4fbcca60621b75ecdd57517b4d961ff23929",
+      "token_x_address": "0xB43EbF084442889a7FaEB2c93a53eA6493d83454",
+      "token_y_address": "0x575Ad5f3b05D76Bf8B19E9813A4D88aB1E8cF903"
+    },
+    {
+      "pair_name": "USDT-USDC",
+      "pair_address": "0xebd40e1d98127320bc590e2f01765392e670f333",
+      "token_x_address": "0xB12E6A6c122CA68DD1402791311778842101928E",
+      "token_y_address": "0xB43EbF084442889a7FaEB2c93a53eA6493d83454"
+    }
+  ]
+}
