@@ -1,0 +1,10 @@
+{
+  "data": [
+    {
+      "pair_name": "USDT-USDC",
+      "pair_address": "0x2d3ece607b822b93b8f638829a9c11f0fa1edfa5",
+      "token_x_address": "0xf55bec9cafdbe8730f096aa55dad6d22d44099df",
+      "token_y_address": "0x06efdbff2a14a7c8e15944d1f4a48f9f95f663a4"
+    }
+  ]
+}
